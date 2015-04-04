@@ -13,3 +13,5 @@ Follow this link for information on verifying the signatures.
 msulogin is fully integrated into Owl and distributions by ALT Linux team.
 
 http://www.openwall.com/msulogin/
+
+<b> I have made avlible hear for easy forking and or conviniance , this is useful say on multi-user Linux boxes for developement or LXC Containers. <b>
